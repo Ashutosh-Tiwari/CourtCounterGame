@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Game Score</string>
+    <string name="textview_team_a">Team A</string>
+    <string name="textview_team_b">Team B</string>
+    <string name="score">Score</string>
+    <string name="zero">0</string>
+    <string name="button_plus_one_point">+1 Point</string>
+    <string name="button_plus_two_point">+2 Point</string>
+    <string name="button_plus_three_point">+3 Point</string>
+    <string name="textview_foul">Foul</string>
+    <string name="button_plus_one_foul">+1 Foul</string>
+    <string name="button_reset">Reset</string>
+</resources>
